@@ -1,6 +1,7 @@
 | :exclamation: WARNING: This workshop is out of date and uses an earlier beta version of the Pact .NET project. It is not currently recommended for use |
-| See https://github.com/pact-foundation/pact-workshop-dotnet for an up-to-date version |
 |-----------------------------------------|
+
+> See https://github.com/pact-foundation/pact-workshop-dotnet for an up-to-date version
 
 
 # Pact .NET Core Workshop
